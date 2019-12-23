@@ -12,4 +12,4 @@ So , I wanted to use this to explore:
 - MS Tests Unit tests in a .net core project
 - Identity and Authorisation using .net core
 
-Its designed to be forked and ran locally with no server connections or external db.
+All written in VS from an empty template. Its designed to be forked and ran locally with no server connections or external db.
